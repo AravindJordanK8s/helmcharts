@@ -9,7 +9,7 @@ entries:
     name: sampledeployment
     type: application
     urls:
-    - sampledeployment-0.1.0.tgz
+    - https://aravindjordank8s.github.io/helmcharts/sampledeployment-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v2
     appVersion: 2.0.0
@@ -19,7 +19,7 @@ entries:
     name: sampledeployment
     type: application
     urls:
-    - sampledeployment-0.2.0.tgz
+    - https://aravindjordank8s.github.io/helmcharts/sampledeployment-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v2
     appVersion: 3.0.0
@@ -29,6 +29,6 @@ entries:
     name: sampledeployment
     type: application
     urls:
-    - sampledeployment-0.3.0.tgz
+    - https://aravindjordank8s.github.io/helmcharts/sampledeployment-0.3.0.tgz
     version: 0.3.0
 generated: "2024-02-10T16:25:02.690191+05:30"
