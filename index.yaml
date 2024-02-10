@@ -3,9 +3,9 @@ entries:
   sampledeployment:
   - apiVersion: v2
     appVersion: 1.0.0
-    created: "2024-02-10T20:40:40.0093356+05:30"
+    created: "2024-02-10T21:39:12.7330815+05:30"
     description: A Helm chart for Kubernetes
-    digest: f2e35cec696dd2ace44bc057872ea3cbd6d0f8137201f79080d1ba7adeb0e48e
+    digest: 565c74c6302e348036bf4d7e105c59c1784564b404f3483b5b305b8f68e34741
     name: sampledeployment
     type: application
     urls:
@@ -13,9 +13,9 @@ entries:
     version: 0.1.0
   - apiVersion: v2
     appVersion: 2.0.0
-    created: "2024-02-10T20:41:30.4258602+05:30"
+    created: "2024-02-10T21:39:52.5393046+05:30"
     description: A Helm chart for Kubernetes
-    digest: 70ce0e869c9caa44efcf4e4863e50968e2c0cff1935c7c7b482c15ceb994b7cd
+    digest: 64dbbd5d4b8a90bc63458f3eb0e98f1974bf919f60bea9480506dae61afa403b
     name: sampledeployment
     type: application
     urls:
@@ -23,12 +23,12 @@ entries:
     version: 0.2.0
   - apiVersion: v2
     appVersion: 3.0.0
-    created: "2024-02-10T20:41:59.454161+05:30"
+    created: "2024-02-10T21:40:27.6110159+05:30"
     description: A Helm chart for Kubernetes
-    digest: 5a31527a945769183883c3694df54c2985dc4bfab844c1b66d9a77f8eb75c248
+    digest: ee47083996b6837446ab843c75dd0ade4e63f8435356eb7d478c993deb9a6287
     name: sampledeployment
     type: application
     urls:
     - https://aravindjordank8s.github.io/helmcharts/sampledeployment-0.3.0.tgz
     version: 0.3.0
-generated: "2024-02-10T16:25:02.690191+05:30"
+generated: "2024-02-10T21:40:27.6100155+05:30"
